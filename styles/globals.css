@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.nopad{
+  padding:0!important
+}
+
+footer{
+  background-color: #000;
+  color: #fff;
+  padding:15px;
+  margin-top:30px
+}
+
+.jumbotron{
+  margin-top:55px
+}
